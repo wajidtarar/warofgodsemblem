@@ -1,0 +1,12 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/emblem/Desktop/MMO RPG Penelope Smartfox/Assets/Scripts/ConnectionGUI.cs" line="72" />
+      <Breakpoint file="/Users/emblem/Desktop/MMO RPG Penelope Smartfox/Assets/Scripts/manager.cs" line="36" />
+      <Breakpoint file="/Users/emblem/Desktop/MMO RPG Penelope Smartfox/Assets/Scripts/manager.cs" line="53" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
